@@ -1,0 +1,26 @@
+
+fieldset {
+    background-color:rgb(90, 212, 141);	
+    border:1px solid rgb(233, 218, 5);
+    margin:10px 0px 30px 2.5%;
+    width:70%;
+    }
+    
+    /*  this overides the generic fieldset css setting for this item by id */
+    #signup {
+    background-color:rgb(142, 126, 214);	
+    border:1px solid rgb(226, 10, 10);
+    margin:10px 0px 30px 2.5%;
+    width:46%;
+    }
+    
+    #experience {
+        background-color:rgb(210, 180, 235);	
+        border:1px solid rgb(226, 10, 10);
+        margin:10px 0px 30px 2.5%;
+        width:46%;
+        }
+    body  
+{  
+background-color :rgb(181, 244, 255) ;  
+}  
